@@ -13,10 +13,15 @@ A few possible use cases:
  - pretending you are dare devil  
    
 Plan:  
-A 2MP camera will be added to do video overlay to show the sound heat map.   
-a 5-7 inch display will connect to the RP2350.   
-There will be a knob to change the selected frequency and a knob to control the frequency range size.   
-One power button is needed.   
-Lipo or 18650 will power the device with the goal of at least 2 hours of runtime on a single charge.   
-A 3d printed case will hold it all together.  
-
+  - A 2MP camera will be added to do video overlay to show the sound heat map.   
+  - 5-7 inch display will connect to the RP2350.   
+  - There will be a knob to change the selected frequency and a knob to control the frequency range size.   
+  - One power button is needed.   
+  - Lipo or 18650 will power the device with the goal of at least 2 hours of runtime on a single charge.   
+  - A 3d printed case will hold it all together.  
+  - Have all the files available to be easily sent to a PCB service for order.  
+  
+   
+      
+This is my first stab at creating a PCB. If you can help, please do so. 
+  This is very early stages of the project, i will post on Hackaday once some more progress has been made. 
