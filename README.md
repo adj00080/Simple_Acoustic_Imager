@@ -25,3 +25,7 @@ Plan:
       
 This is my first stab at creating a PCB. If you can help, please do so. 
   This is very early stages of the project, i will post on Hackaday once some more progress has been made. 
+
+
+![PCB front](<images/Screenshot 2026-03-04 122127.png>)
+![PCB rear](<images/Screenshot 2026-03-04 122158.png>)
