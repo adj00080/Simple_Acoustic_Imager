@@ -29,3 +29,5 @@ This is my first stab at creating a PCB. If you can help, please do so.
 
 ![PCB front](<images/Screenshot 2026-03-04 122127.png>)
 ![PCB rear](<images/Screenshot 2026-03-04 122158.png>)
+
+[Test Board](<ProPrj_acoustic imager test_2026-03-05.epro>)
